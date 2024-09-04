@@ -1,0 +1,1 @@
+Mixed Messages is a script that randomizes words in a sentence structure, allowing for a new message each run.
